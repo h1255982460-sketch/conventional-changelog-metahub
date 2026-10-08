@@ -97,4 +97,4 @@ For example the [commitizen](https://github.com/commitizen/cz-cli) CLI can prese
 
 ## Related
 - [cz-conventional-commit](https://github.com/pvdlg/cz-conventional-commit)
-- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
+- [conventional-changelog](https://githubx402.com/conventional-changelog/conventional-changelog)
